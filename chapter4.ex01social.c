@@ -10,4 +10,5 @@ int main(void) {
   printf("Your date of birth is august 31st, 2002.\n");
 
 return 0
+  
 }
