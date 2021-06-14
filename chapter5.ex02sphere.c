@@ -2,11 +2,10 @@
 #include <stdio.h>
 #include <math.h> 
 #include <string.h>
+#define pi 3.14159265359
 
 int main(void){
   float rad;
-  float pi;
-  pi=3.14159265359;
 
   printf("Enter the radius of the sphere to calculate its volume.\n");
   scanf("%f",&rad);
