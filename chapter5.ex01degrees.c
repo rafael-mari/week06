@@ -14,5 +14,7 @@ int main(void){
 
   printf("There are %.1f",fahr);
   printf("° degrees Fahrenheit.");
+  
+  return 0;
 
 }
